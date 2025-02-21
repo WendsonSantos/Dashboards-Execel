@@ -5,9 +5,30 @@ Tabela dinâmica
 objetivo:
 aprimorar os meus conhecimentos de analise de dados
 
-Dashboards Impressionadores - Dashboard Wendson.xlsx
+Dashboards Impressionadores - Dashboard Wendson
 É uma base de dados relacionada a vendas de produtos, os indicadores usandos para a análise de dados foram:
--Total de vendas por mês e ano.
--Produtos mais vendidos.
--Formas de pagamento mais utilizadas.
--Receita total gerada.
+- Total de vendas por mês e ano.
+- Produtos mais vendidos.
+- Formas de pagamento mais utilizadas.
+- Receita total gerada.
+
+Dashboards Impressionadores - Dashboard 2
+É uma base de dados relacionada a vendas e clientes, os indicadores usandos para a análise de dados foram:
+Os principais indicadores encontrados na planilha são:  
+- Receita total e por produtos.
+- Distribuição das vendas por região do Brasil. 
+- Total de faturamento mês a mês.
+- Dados mais detalhados de vendas ao longo do ano, incluindo totais por mês.
+
+Dashboards Impressionadores - Dashboard 3 - Wendson
+É uma base para análise de desempenho de vendas e vendedor, os indicadores usandos para a análise de dados foram:
+- Faturamento Total
+- Quantidade Total Vendida
+- Ticket Médio
+- Faturamento por Vendedor 
+- Quantidade Vendida por Vendedor
+- Ticket Médio por Vendedor
+- Produto Mais Vendido (em quantidade) 
+- Produto com Maior Faturamento
+- Faturamento por Mês/Ano
+- Quantidade Vendida por Mês/Ano
